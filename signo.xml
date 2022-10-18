@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+
+    <signos>
+
+        <signo>
+
+            <dataInicio>21/03</dataInicio>
+
+            <dataFim>20/04</dataFim>
+
+            <signoNome>Áries</signoNome>
+
+            <descricao>Dinâmicos e sinceros, quem tem sol em 
+            Áries costuma ter um forte contato com a sua 
+            individualidade, que pode parecer egoísmo em alguns momentos. 
+            Arianas e arianos tendem a ser alegres e muito extrovertidos, 
+            mas também podem ser bastante competitivos e soar um pouco autoritários. 
+            Podem preferir trabalhar sozinhos, mas costumam ter um ótimo espírito de liderança.
+            </descricao>
+
+        </signo>
+
+        <signo>
+
+            <dataInicio>21/04</dataInicio>
+
+            <dataFim>20/05</dataFim>
+
+            <signoNome>Touro</signoNome>
+
+            <descricao>Calmo e persistente, se você tem sol no signo de Touro, 
+            provavelmente não costuma se irritar com facilidade. 
+            Em geral, suas posses e bens materiais são importantes para você. 
+            E, dependendo do restante do seu Mapa Astral, você pode usar isso ao seu favor, 
+            desenvolvendo uma tendência natural para acumular bens materiais, 
+            além de um ótimo senso de organização financeira. Mas atenção! 
+            Essa mesma característica pode despertar possessividade e materialismos excessivos.
+            </descricao>
+
+        </signo>
+
+    </signos>
